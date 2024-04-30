@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @Migwe101
-- 👀 I’m interested in Cyber security and software enginering
-- 🌱 I’m currently learning OSCP
+
